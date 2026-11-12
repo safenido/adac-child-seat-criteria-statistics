@@ -86,7 +86,7 @@ Every criterion was checked to stay within the 1 to 5 scale, and the number of t
 }
 ```
 
-Source. Published results of the ADAC and ÖAMTC child seat tests, aggregated by Safe Nido, https://www.safenido.fr/crash-test-siege-auto/lire-une-note-adac/
+Source. Published results of the ADAC and ÖAMTC child seat tests, aggregated by Safe Nido, https://www.safenido.fr/test-adac/comment-lire-note-adac/
 
 Archived on **[Zenodo](https://doi.org/10.5281/zenodo.24167196)** with a permanent DOI, 10.5281/zenodo.24167196.
 
@@ -98,7 +98,7 @@ Also on **[GitHub](https://github.com/safenido/adac-child-seat-criteria-statisti
 
 The data behind these files is used on [Safe Nido](https://www.safenido.fr/), an independent French guide to child car seats built on twenty years of crash tests.
 
-- [How to read an ADAC grade](https://www.safenido.fr/crash-test-siege-auto/lire-une-note-adac/)
+- [How to read an ADAC grade](https://www.safenido.fr/test-adac/comment-lire-note-adac/)
 - [Our index explained](https://www.safenido.fr/notre-indice/)
 - [Every ADAC result](https://www.safenido.fr/test-adac/)
 
