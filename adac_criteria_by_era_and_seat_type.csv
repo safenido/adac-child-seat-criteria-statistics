@@ -1,0 +1,731 @@
+criterion,criterion_en,criterion_fr,adac_part,protocol_era,seat_type,tests,mean_mark,share_mark_1_or_2_pct,share_mark_4_or_5_pct
+front_crash,Front impact,Choc frontal,safety,2007-2010,all,114,2.47,49.12,20.18
+front_crash,Front impact,Choc frontal,safety,2007-2010,all_in_one_from_birth,5,2.6,40.0,40.0
+front_crash,Front impact,Choc frontal,safety,2007-2010,forward_facing_harness,20,2.9,35.0,30.0
+front_crash,Front impact,Choc frontal,safety,2007-2010,harness_to_booster,9,3.56,0.0,33.33
+front_crash,Front impact,Choc frontal,safety,2007-2010,high_back_booster,35,2.97,25.71,22.86
+front_crash,Front impact,Choc frontal,safety,2007-2010,impact_shield,7,2.57,57.14,14.29
+front_crash,Front impact,Choc frontal,safety,2007-2010,infant_carrier,31,1.39,93.55,6.45
+front_crash,Front impact,Choc frontal,safety,2007-2010,rotating_or_reversible,3,3,33.33,33.33
+front_crash,Front impact,Choc frontal,safety,2011-2014,all,160,2.44,53.75,17.5
+front_crash,Front impact,Choc frontal,safety,2011-2014,all_in_one_from_birth,5,3.4,40.0,60.0
+front_crash,Front impact,Choc frontal,safety,2011-2014,car_cot,4,1.5,100.0,0.0
+front_crash,Front impact,Choc frontal,safety,2011-2014,forward_facing_harness,20,3.1,35.0,35.0
+front_crash,Front impact,Choc frontal,safety,2011-2014,harness_to_booster,22,3.36,9.09,40.91
+front_crash,Front impact,Choc frontal,safety,2011-2014,high_back_booster,40,2.7,37.5,5.0
+front_crash,Front impact,Choc frontal,safety,2011-2014,impact_shield,13,2.46,61.54,15.38
+front_crash,Front impact,Choc frontal,safety,2011-2014,infant_carrier,42,1.29,95.24,2.38
+front_crash,Front impact,Choc frontal,safety,2011-2014,rotating_or_reversible,13,2.77,53.85,30.77
+front_crash,Front impact,Choc frontal,safety,2015-2019,all,242,2.21,64.05,10.74
+front_crash,Front impact,Choc frontal,safety,2015-2019,forward_facing_harness,15,3,26.67,13.33
+front_crash,Front impact,Choc frontal,safety,2015-2019,harness_to_booster,25,3.32,0.0,20.0
+front_crash,Front impact,Choc frontal,safety,2015-2019,high_back_booster,39,2.28,71.79,0.0
+front_crash,Front impact,Choc frontal,safety,2015-2019,impact_shield,12,2.92,25.0,8.33
+front_crash,Front impact,Choc frontal,safety,2015-2019,infant_carrier,93,1.41,92.47,4.3
+front_crash,Front impact,Choc frontal,safety,2015-2019,rear_facing_only,15,1.6,93.33,0.0
+front_crash,Front impact,Choc frontal,safety,2015-2019,rotating_or_reversible,40,2.92,47.5,30.0
+front_crash,Front impact,Choc frontal,safety,2020-2024,all,244,1.98,68.03,6.56
+front_crash,Front impact,Choc frontal,safety,2020-2024,all_in_one_from_birth,3,3.33,0.0,33.33
+front_crash,Front impact,Choc frontal,safety,2020-2024,harness_to_booster,19,3.21,0.0,21.05
+front_crash,Front impact,Choc frontal,safety,2020-2024,high_back_booster,35,2.71,31.43,2.86
+front_crash,Front impact,Choc frontal,safety,2020-2024,impact_shield,4,2.5,25.0,0.0
+front_crash,Front impact,Choc frontal,safety,2020-2024,infant_carrier,96,1.16,96.88,2.08
+front_crash,Front impact,Choc frontal,safety,2020-2024,rear_facing_only,15,1.13,100.0,0.0
+front_crash,Front impact,Choc frontal,safety,2020-2024,rotating_or_reversible,69,2.48,66.67,11.59
+front_crash,Front impact,Choc frontal,safety,2025+,all,79,2.85,32.91,18.99
+front_crash,Front impact,Choc frontal,safety,2025+,harness_to_booster,5,3.4,0.0,40.0
+front_crash,Front impact,Choc frontal,safety,2025+,high_back_booster,13,2.92,15.38,7.69
+front_crash,Front impact,Choc frontal,safety,2025+,infant_carrier,31,2.48,61.29,16.13
+front_crash,Front impact,Choc frontal,safety,2025+,rear_facing_only,4,3,25.0,25.0
+front_crash,Front impact,Choc frontal,safety,2025+,rotating_or_reversible,23,3.17,13.04,21.74
+side_crash,Side impact,Choc latéral,safety,2007-2010,all,115,2.55,50.43,12.17
+side_crash,Side impact,Choc latéral,safety,2007-2010,all_in_one_from_birth,5,2.4,60.0,0.0
+side_crash,Side impact,Choc latéral,safety,2007-2010,forward_facing_harness,20,2.1,75.0,5.0
+side_crash,Side impact,Choc latéral,safety,2007-2010,harness_to_booster,9,3.22,22.22,22.22
+side_crash,Side impact,Choc latéral,safety,2007-2010,high_back_booster,35,2.77,45.71,14.29
+side_crash,Side impact,Choc latéral,safety,2007-2010,impact_shield,7,2.14,71.43,14.29
+side_crash,Side impact,Choc latéral,safety,2007-2010,infant_carrier,32,2.53,43.75,15.62
+side_crash,Side impact,Choc latéral,safety,2007-2010,rotating_or_reversible,3,2.67,33.33,0.0
+side_crash,Side impact,Choc latéral,safety,2011-2014,all,160,2.49,51.88,13.75
+side_crash,Side impact,Choc latéral,safety,2011-2014,all_in_one_from_birth,5,3.2,0.0,20.0
+side_crash,Side impact,Choc latéral,safety,2011-2014,car_cot,4,2,50.0,0.0
+side_crash,Side impact,Choc latéral,safety,2011-2014,forward_facing_harness,20,2.05,75.0,0.0
+side_crash,Side impact,Choc latéral,safety,2011-2014,harness_to_booster,22,3.41,13.64,31.82
+side_crash,Side impact,Choc latéral,safety,2011-2014,high_back_booster,40,2.42,62.5,15.0
+side_crash,Side impact,Choc latéral,safety,2011-2014,impact_shield,13,1.31,92.31,0.0
+side_crash,Side impact,Choc latéral,safety,2011-2014,infant_carrier,42,2.45,54.76,11.9
+side_crash,Side impact,Choc latéral,safety,2011-2014,rotating_or_reversible,13,3,23.08,23.08
+side_crash,Side impact,Choc latéral,safety,2015-2019,all,241,2.08,73.86,6.22
+side_crash,Side impact,Choc latéral,safety,2015-2019,forward_facing_harness,15,2.27,60.0,0.0
+side_crash,Side impact,Choc latéral,safety,2015-2019,harness_to_booster,25,2.84,36.0,20.0
+side_crash,Side impact,Choc latéral,safety,2015-2019,high_back_booster,38,1.84,84.21,2.63
+side_crash,Side impact,Choc latéral,safety,2015-2019,impact_shield,12,1.58,83.33,8.33
+side_crash,Side impact,Choc latéral,safety,2015-2019,infant_carrier,93,1.89,86.02,3.23
+side_crash,Side impact,Choc latéral,safety,2015-2019,rear_facing_only,15,1.73,100.0,0.0
+side_crash,Side impact,Choc latéral,safety,2015-2019,rotating_or_reversible,40,2.45,55.0,10.0
+side_crash,Side impact,Choc latéral,safety,2020-2024,all,244,1.86,84.43,3.69
+side_crash,Side impact,Choc latéral,safety,2020-2024,all_in_one_from_birth,3,2,66.67,33.33
+side_crash,Side impact,Choc latéral,safety,2020-2024,harness_to_booster,19,2.32,78.95,10.53
+side_crash,Side impact,Choc latéral,safety,2020-2024,high_back_booster,35,1.86,85.71,2.86
+side_crash,Side impact,Choc latéral,safety,2020-2024,impact_shield,4,1.5,100.0,0.0
+side_crash,Side impact,Choc latéral,safety,2020-2024,infant_carrier,96,1.66,94.79,1.04
+side_crash,Side impact,Choc latéral,safety,2020-2024,rear_facing_only,15,1.13,100.0,0.0
+side_crash,Side impact,Choc latéral,safety,2020-2024,rotating_or_reversible,69,2.16,68.12,4.35
+side_crash,Side impact,Choc latéral,safety,2025+,all,79,2.28,63.29,3.8
+side_crash,Side impact,Choc latéral,safety,2025+,harness_to_booster,5,2.4,60.0,20.0
+side_crash,Side impact,Choc latéral,safety,2025+,high_back_booster,13,2.31,46.15,7.69
+side_crash,Side impact,Choc latéral,safety,2025+,infant_carrier,31,2.26,74.19,0.0
+side_crash,Side impact,Choc latéral,safety,2025+,rear_facing_only,4,2.25,75.0,0.0
+side_crash,Side impact,Choc latéral,safety,2025+,rotating_or_reversible,23,2.35,52.17,4.35
+belt_routing,Belt routing,Passage de la ceinture,safety,2007-2010,all,107,2.08,85.05,14.02
+belt_routing,Belt routing,Passage de la ceinture,safety,2007-2010,all_in_one_from_birth,5,1.8,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2007-2010,forward_facing_harness,20,1.95,90.0,10.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2007-2010,harness_to_booster,9,3,55.56,44.44
+belt_routing,Belt routing,Passage de la ceinture,safety,2007-2010,high_back_booster,35,1.97,85.71,14.29
+belt_routing,Belt routing,Passage de la ceinture,safety,2007-2010,impact_shield,4,3.25,50.0,50.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2007-2010,infant_carrier,27,1.85,92.59,3.7
+belt_routing,Belt routing,Passage de la ceinture,safety,2007-2010,rotating_or_reversible,3,2,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2011-2014,all,158,2.25,79.75,18.35
+belt_routing,Belt routing,Passage de la ceinture,safety,2011-2014,all_in_one_from_birth,5,2,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2011-2014,car_cot,4,2,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2011-2014,forward_facing_harness,20,1.85,90.0,10.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2011-2014,harness_to_booster,22,2.73,59.09,31.82
+belt_routing,Belt routing,Passage de la ceinture,safety,2011-2014,high_back_booster,39,1.87,89.74,10.26
+belt_routing,Belt routing,Passage de la ceinture,safety,2011-2014,impact_shield,13,1.85,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2011-2014,infant_carrier,42,2.69,66.67,33.33
+belt_routing,Belt routing,Passage de la ceinture,safety,2011-2014,rotating_or_reversible,12,2.42,75.0,16.67
+belt_routing,Belt routing,Passage de la ceinture,safety,2015-2019,all,241,1.95,89.63,1.24
+belt_routing,Belt routing,Passage de la ceinture,safety,2015-2019,forward_facing_harness,15,1.33,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2015-2019,harness_to_booster,25,2.16,84.0,4.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2015-2019,high_back_booster,39,1.74,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2015-2019,impact_shield,12,2,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2015-2019,infant_carrier,93,2.05,81.72,1.08
+belt_routing,Belt routing,Passage de la ceinture,safety,2015-2019,rear_facing_only,15,1.87,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2015-2019,rotating_or_reversible,39,1.95,92.31,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2020-2024,all,244,1.87,95.9,0.41
+belt_routing,Belt routing,Passage de la ceinture,safety,2020-2024,all_in_one_from_birth,3,3,66.67,33.33
+belt_routing,Belt routing,Passage de la ceinture,safety,2020-2024,harness_to_booster,19,2.16,84.21,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2020-2024,high_back_booster,35,1.6,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2020-2024,impact_shield,4,2,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2020-2024,infant_carrier,96,1.91,94.79,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2020-2024,rear_facing_only,15,1.87,93.33,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2020-2024,rotating_or_reversible,69,1.83,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2025+,all,79,1.75,96.2,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2025+,harness_to_booster,5,2,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2025+,high_back_booster,13,1.77,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2025+,infant_carrier,31,1.55,100.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2025+,rear_facing_only,4,1.75,75.0,0.0
+belt_routing,Belt routing,Passage de la ceinture,safety,2025+,rotating_or_reversible,23,1.96,91.3,0.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2007-2010,all,114,2.85,53.51,46.49
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2007-2010,all_in_one_from_birth,5,2.8,60.0,40.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2007-2010,forward_facing_harness,20,1.65,95.0,5.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2007-2010,harness_to_booster,8,4.5,0.0,100.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2007-2010,high_back_booster,35,3.31,31.43,68.57
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2007-2010,impact_shield,7,4.43,0.0,100.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2007-2010,infant_carrier,32,2.38,75.0,25.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2007-2010,rotating_or_reversible,3,2.33,66.67,33.33
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2011-2014,all,158,2.8,62.66,37.34
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2011-2014,all_in_one_from_birth,5,3.2,40.0,60.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2011-2014,car_cot,3,3.33,33.33,66.67
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2011-2014,forward_facing_harness,20,1.7,100.0,0.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2011-2014,harness_to_booster,22,4,22.73,77.27
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2011-2014,high_back_booster,39,3.13,46.15,53.85
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2011-2014,impact_shield,13,2.92,61.54,38.46
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2011-2014,infant_carrier,42,2.31,83.33,16.67
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2011-2014,rotating_or_reversible,13,2.69,69.23,30.77
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2015-2019,all,242,2.15,84.71,15.29
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2015-2019,forward_facing_harness,15,1.87,80.0,20.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2015-2019,harness_to_booster,25,2.36,76.0,24.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2015-2019,high_back_booster,39,2.26,82.05,17.95
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2015-2019,impact_shield,12,1.83,100.0,0.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2015-2019,infant_carrier,93,2.15,86.02,13.98
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2015-2019,rear_facing_only,15,2.07,80.0,20.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2015-2019,rotating_or_reversible,40,2.15,87.5,12.5
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2020-2024,all,244,2.38,79.92,20.08
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2020-2024,all_in_one_from_birth,3,3,66.67,33.33
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2020-2024,harness_to_booster,19,2.63,68.42,31.58
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2020-2024,high_back_booster,35,2.09,91.43,8.57
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2020-2024,impact_shield,4,2,100.0,0.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2020-2024,infant_carrier,96,2.35,82.29,17.71
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2020-2024,rear_facing_only,15,2.73,60.0,40.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2020-2024,rotating_or_reversible,69,2.41,78.26,21.74
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2025+,all,79,1.57,96.2,3.8
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2025+,harness_to_booster,5,1.8,100.0,0.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2025+,high_back_booster,13,1.77,92.31,7.69
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2025+,infant_carrier,31,1.61,96.77,3.23
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2025+,rear_facing_only,4,2.25,75.0,25.0
+stability,Stability on the vehicle seat,Stabilité sur le siège,safety,2025+,rotating_or_reversible,23,1.26,100.0,0.0
+head_side_protection,Head side protection,Protection latérale de la tête,safety,2007-2010,all,111,1.59,93.69,6.31
+head_side_protection,Head side protection,Protection latérale de la tête,safety,2007-2010,all_in_one_from_birth,5,1.6,100.0,0.0
+head_side_protection,Head side protection,Protection latérale de la tête,safety,2007-2010,forward_facing_harness,20,1.55,100.0,0.0
+head_side_protection,Head side protection,Protection latérale de la tête,safety,2007-2010,harness_to_booster,8,2.12,75.0,25.0
+head_side_protection,Head side protection,Protection latérale de la tête,safety,2007-2010,high_back_booster,34,1.85,91.18,8.82
+head_side_protection,Head side protection,Protection latérale de la tête,safety,2007-2010,impact_shield,7,2,85.71,14.29
+head_side_protection,Head side protection,Protection latérale de la tête,safety,2007-2010,infant_carrier,31,1.03,100.0,0.0
+head_side_protection,Head side protection,Protection latérale de la tête,safety,2007-2010,rotating_or_reversible,3,2.33,66.67,33.33
+head_side_protection,Head side protection,Protection latérale de la tête,safety,2011-2014,all,9,1,100.0,0.0
+head_side_protection,Head side protection,Protection latérale de la tête,safety,2011-2014,high_back_booster,3,1,100.0,0.0
+head_side_protection,Head side protection,Protection latérale de la tête,safety,2011-2014,infant_carrier,3,1,100.0,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2007-2010,all,110,2.08,81.82,16.36
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2007-2010,all_in_one_from_birth,4,4.75,0.0,100.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2007-2010,forward_facing_harness,20,1.9,95.0,5.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2007-2010,harness_to_booster,9,3.11,55.56,44.44
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2007-2010,high_back_booster,34,1.35,94.12,5.88
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2007-2010,impact_shield,7,1.71,100.0,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2007-2010,infant_carrier,29,2.21,79.31,13.79
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2007-2010,rotating_or_reversible,3,3,66.67,33.33
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2011-2014,all,159,1.79,88.05,7.55
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2011-2014,all_in_one_from_birth,5,2,80.0,20.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2011-2014,car_cot,4,2.5,50.0,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2011-2014,forward_facing_harness,20,1.75,95.0,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2011-2014,harness_to_booster,21,2.71,57.14,23.81
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2011-2014,high_back_booster,40,1.23,100.0,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2011-2014,impact_shield,13,1.69,92.31,7.69
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2011-2014,infant_carrier,42,1.81,92.86,7.14
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2011-2014,rotating_or_reversible,13,1.92,84.62,15.38
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2015-2019,all,242,2.23,66.94,4.13
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2015-2019,forward_facing_harness,15,1.93,86.67,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2015-2019,harness_to_booster,25,2.56,44.0,4.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2015-2019,high_back_booster,39,1.54,94.87,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2015-2019,impact_shield,12,1.92,66.67,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2015-2019,infant_carrier,93,2.2,75.27,1.08
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2015-2019,rear_facing_only,15,2.53,60.0,13.33
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2015-2019,rotating_or_reversible,40,2.83,32.5,12.5
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2020-2024,all,244,2.57,43.03,6.56
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2020-2024,all_in_one_from_birth,3,3,0.0,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2020-2024,harness_to_booster,19,2.47,63.16,10.53
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2020-2024,high_back_booster,35,1.91,80.0,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2020-2024,impact_shield,4,2.5,50.0,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2020-2024,infant_carrier,96,2.52,45.83,3.12
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2020-2024,rear_facing_only,15,2.87,40.0,33.33
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2020-2024,rotating_or_reversible,69,2.93,15.94,8.7
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2025+,all,79,2.52,56.96,11.39
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2025+,harness_to_booster,5,2.6,40.0,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2025+,high_back_booster,13,1.92,100.0,0.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2025+,infant_carrier,31,2.61,48.39,9.68
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2025+,rear_facing_only,4,3,50.0,50.0
+misuse_risk,Risk of incorrect use,Risque d'erreur,handling,2025+,rotating_or_reversible,23,2.65,47.83,13.04
+installation,Installing the seat,Installation du siège,handling,2007-2010,all,113,2.55,68.14,25.66
+installation,Installing the seat,Installation du siège,handling,2007-2010,all_in_one_from_birth,5,3.4,40.0,60.0
+installation,Installing the seat,Installation du siège,handling,2007-2010,forward_facing_harness,20,2.55,70.0,25.0
+installation,Installing the seat,Installation du siège,handling,2007-2010,harness_to_booster,9,3.56,22.22,77.78
+installation,Installing the seat,Installation du siège,handling,2007-2010,high_back_booster,34,1.97,100.0,0.0
+installation,Installing the seat,Installation du siège,handling,2007-2010,impact_shield,7,2,85.71,14.29
+installation,Installing the seat,Installation du siège,handling,2007-2010,infant_carrier,31,2.58,61.29,25.81
+installation,Installing the seat,Installation du siège,handling,2007-2010,rotating_or_reversible,3,4,0.0,66.67
+installation,Installing the seat,Installation du siège,handling,2011-2014,all,160,2.49,66.88,29.38
+installation,Installing the seat,Installation du siège,handling,2011-2014,all_in_one_from_birth,5,3.4,40.0,60.0
+installation,Installing the seat,Installation du siège,handling,2011-2014,car_cot,4,4.25,0.0,100.0
+installation,Installing the seat,Installation du siège,handling,2011-2014,forward_facing_harness,20,3,50.0,50.0
+installation,Installing the seat,Installation du siège,handling,2011-2014,harness_to_booster,22,3.45,18.18,63.64
+installation,Installing the seat,Installation du siège,handling,2011-2014,high_back_booster,40,1.68,100.0,0.0
+installation,Installing the seat,Installation du siège,handling,2011-2014,impact_shield,13,1.69,100.0,0.0
+installation,Installing the seat,Installation du siège,handling,2011-2014,infant_carrier,42,2.4,71.43,23.81
+installation,Installing the seat,Installation du siège,handling,2011-2014,rotating_or_reversible,13,2.85,53.85,46.15
+installation,Installing the seat,Installation du siège,handling,2015-2019,all,242,1.9,85.54,1.24
+installation,Installing the seat,Installation du siège,handling,2015-2019,forward_facing_harness,15,1.93,86.67,0.0
+installation,Installing the seat,Installation du siège,handling,2015-2019,harness_to_booster,25,2.56,44.0,0.0
+installation,Installing the seat,Installation du siège,handling,2015-2019,high_back_booster,39,1.51,100.0,0.0
+installation,Installing the seat,Installation du siège,handling,2015-2019,impact_shield,12,1.42,100.0,0.0
+installation,Installing the seat,Installation du siège,handling,2015-2019,infant_carrier,93,1.81,94.62,0.0
+installation,Installing the seat,Installation du siège,handling,2015-2019,rear_facing_only,15,2.2,73.33,6.67
+installation,Installing the seat,Installation du siège,handling,2015-2019,rotating_or_reversible,40,2.05,80.0,2.5
+installation,Installing the seat,Installation du siège,handling,2020-2024,all,242,2.42,60.33,3.72
+installation,Installing the seat,Installation du siège,handling,2020-2024,all_in_one_from_birth,3,3.33,0.0,33.33
+installation,Installing the seat,Installation du siège,handling,2020-2024,harness_to_booster,19,3,0.0,0.0
+installation,Installing the seat,Installation du siège,handling,2020-2024,high_back_booster,35,1.94,97.14,0.0
+installation,Installing the seat,Installation du siège,handling,2020-2024,impact_shield,4,2.25,75.0,0.0
+installation,Installing the seat,Installation du siège,handling,2020-2024,infant_carrier,95,2.17,82.11,0.0
+installation,Installing the seat,Installation du siège,handling,2020-2024,rear_facing_only,15,2.8,53.33,33.33
+installation,Installing the seat,Installation du siège,handling,2020-2024,rotating_or_reversible,68,2.72,32.35,4.41
+installation,Installing the seat,Installation du siège,handling,2025+,all,79,2.28,73.42,2.53
+installation,Installing the seat,Installation du siège,handling,2025+,harness_to_booster,5,2.8,20.0,0.0
+installation,Installing the seat,Installation du siège,handling,2025+,high_back_booster,13,1.92,100.0,0.0
+installation,Installing the seat,Installation du siège,handling,2025+,infant_carrier,31,2.13,87.1,0.0
+installation,Installing the seat,Installation du siège,handling,2025+,rear_facing_only,4,3.25,25.0,50.0
+installation,Installing the seat,Installation du siège,handling,2025+,rotating_or_reversible,23,2.35,65.22,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2007-2010,all,113,2.4,76.99,19.47
+buckling,Buckling the child in,Attacher l'enfant,handling,2007-2010,all_in_one_from_birth,5,3.2,40.0,60.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2007-2010,forward_facing_harness,20,2.4,80.0,20.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2007-2010,harness_to_booster,9,3.67,22.22,77.78
+buckling,Buckling the child in,Attacher l'enfant,handling,2007-2010,high_back_booster,34,1.94,94.12,2.94
+buckling,Buckling the child in,Attacher l'enfant,handling,2007-2010,impact_shield,7,2.43,85.71,14.29
+buckling,Buckling the child in,Attacher l'enfant,handling,2007-2010,infant_carrier,32,2.25,84.38,9.38
+buckling,Buckling the child in,Attacher l'enfant,handling,2007-2010,rotating_or_reversible,3,2.67,66.67,33.33
+buckling,Buckling the child in,Attacher l'enfant,handling,2011-2014,all,160,2.69,64.38,33.12
+buckling,Buckling the child in,Attacher l'enfant,handling,2011-2014,all_in_one_from_birth,5,3.6,20.0,80.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2011-2014,car_cot,4,2.5,75.0,25.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2011-2014,forward_facing_harness,20,2.6,70.0,30.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2011-2014,harness_to_booster,22,3.36,27.27,63.64
+buckling,Buckling the child in,Attacher l'enfant,handling,2011-2014,high_back_booster,40,2.33,82.5,15.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2011-2014,impact_shield,13,2.31,84.62,15.38
+buckling,Buckling the child in,Attacher l'enfant,handling,2011-2014,infant_carrier,42,2.4,78.57,21.43
+buckling,Buckling the child in,Attacher l'enfant,handling,2011-2014,rotating_or_reversible,13,3.85,7.69,84.62
+buckling,Buckling the child in,Attacher l'enfant,handling,2015-2019,all,242,2.45,57.85,1.65
+buckling,Buckling the child in,Attacher l'enfant,handling,2015-2019,forward_facing_harness,15,2.33,66.67,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2015-2019,harness_to_booster,25,2.92,12.0,4.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2015-2019,high_back_booster,39,2.08,94.87,2.56
+buckling,Buckling the child in,Attacher l'enfant,handling,2015-2019,impact_shield,12,2,100.0,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2015-2019,infant_carrier,93,2.2,79.57,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2015-2019,rear_facing_only,15,2.87,13.33,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2015-2019,rotating_or_reversible,40,3.02,2.5,2.5
+buckling,Buckling the child in,Attacher l'enfant,handling,2020-2024,all,244,2.46,55.74,1.64
+buckling,Buckling the child in,Attacher l'enfant,handling,2020-2024,all_in_one_from_birth,3,3.67,0.0,66.67
+buckling,Buckling the child in,Attacher l'enfant,handling,2020-2024,harness_to_booster,19,2.74,26.32,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2020-2024,high_back_booster,35,2.11,88.57,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2020-2024,impact_shield,4,2,100.0,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2020-2024,infant_carrier,96,2.24,76.04,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2020-2024,rear_facing_only,15,2.8,20.0,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2020-2024,rotating_or_reversible,69,2.77,26.09,2.9
+buckling,Buckling the child in,Attacher l'enfant,handling,2025+,all,79,2.59,44.3,3.8
+buckling,Buckling the child in,Attacher l'enfant,handling,2025+,harness_to_booster,5,3,0.0,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2025+,high_back_booster,13,2.15,84.62,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2025+,infant_carrier,31,2.32,67.74,0.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2025+,rear_facing_only,4,3.25,0.0,25.0
+buckling,Buckling the child in,Attacher l'enfant,handling,2025+,rotating_or_reversible,23,3.04,4.35,8.7
+size_adjust,Adjusting to the child,Réglage à la taille de l'enfant,handling,2007-2010,all,29,1.1,100.0,0.0
+size_adjust,Adjusting to the child,Réglage à la taille de l'enfant,handling,2007-2010,forward_facing_harness,5,1,100.0,0.0
+size_adjust,Adjusting to the child,Réglage à la taille de l'enfant,handling,2007-2010,high_back_booster,13,1,100.0,0.0
+size_adjust,Adjusting to the child,Réglage à la taille de l'enfant,handling,2007-2010,impact_shield,3,2,100.0,0.0
+size_adjust,Adjusting to the child,Réglage à la taille de l'enfant,handling,2007-2010,infant_carrier,7,1,100.0,0.0
+size_adjust,Adjusting to the child,Réglage à la taille de l'enfant,handling,2011-2014,all,22,1,100.0,0.0
+size_adjust,Adjusting to the child,Réglage à la taille de l'enfant,handling,2011-2014,forward_facing_harness,7,1,100.0,0.0
+size_adjust,Adjusting to the child,Réglage à la taille de l'enfant,handling,2011-2014,high_back_booster,12,1,100.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2007-2010,all,110,1.92,90.0,3.64
+manual,Instructions and warnings,Notice et avertissements,handling,2007-2010,all_in_one_from_birth,5,2,100.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2007-2010,forward_facing_harness,20,2.05,90.0,10.0
+manual,Instructions and warnings,Notice et avertissements,handling,2007-2010,harness_to_booster,9,2.11,88.89,11.11
+manual,Instructions and warnings,Notice et avertissements,handling,2007-2010,high_back_booster,34,1.91,88.24,2.94
+manual,Instructions and warnings,Notice et avertissements,handling,2007-2010,impact_shield,7,1.57,85.71,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2007-2010,infant_carrier,29,1.83,93.1,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2007-2010,rotating_or_reversible,3,1.67,100.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2011-2014,all,160,1.81,93.75,4.38
+manual,Instructions and warnings,Notice et avertissements,handling,2011-2014,all_in_one_from_birth,5,1.6,100.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2011-2014,car_cot,4,2,100.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2011-2014,forward_facing_harness,20,1.95,100.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2011-2014,harness_to_booster,22,2.45,72.73,22.73
+manual,Instructions and warnings,Notice et avertissements,handling,2011-2014,high_back_booster,40,1.65,100.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2011-2014,impact_shield,13,1.54,100.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2011-2014,infant_carrier,42,1.64,92.86,4.76
+manual,Instructions and warnings,Notice et avertissements,handling,2011-2014,rotating_or_reversible,13,1.92,92.31,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2015-2019,all,242,2.21,71.9,1.24
+manual,Instructions and warnings,Notice et avertissements,handling,2015-2019,forward_facing_harness,15,2.2,80.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2015-2019,harness_to_booster,25,2.36,60.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2015-2019,high_back_booster,39,2.15,82.05,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2015-2019,impact_shield,12,2,91.67,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2015-2019,infant_carrier,93,2.31,63.44,3.23
+manual,Instructions and warnings,Notice et avertissements,handling,2015-2019,rear_facing_only,15,2.07,86.67,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2015-2019,rotating_or_reversible,40,2.08,75.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2020-2024,all,244,2.1,85.66,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2020-2024,all_in_one_from_birth,3,2,100.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2020-2024,harness_to_booster,19,2.05,78.95,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2020-2024,high_back_booster,35,1.94,97.14,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2020-2024,impact_shield,4,1.75,100.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2020-2024,infant_carrier,96,2.12,85.42,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2020-2024,rear_facing_only,15,2.2,80.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2020-2024,rotating_or_reversible,69,2.16,81.16,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2025+,all,79,2.67,40.51,7.59
+manual,Instructions and warnings,Notice et avertissements,handling,2025+,harness_to_booster,5,3,0.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2025+,high_back_booster,13,2.77,38.46,15.38
+manual,Instructions and warnings,Notice et avertissements,handling,2025+,infant_carrier,31,2.9,22.58,12.9
+manual,Instructions and warnings,Notice et avertissements,handling,2025+,rear_facing_only,4,2.75,25.0,0.0
+manual,Instructions and warnings,Notice et avertissements,handling,2025+,rotating_or_reversible,23,2.3,69.57,0.0
+seat_weight,Weight of the seat,Poids du siège,handling,2007-2010,all,84,1.92,88.1,11.9
+seat_weight,Weight of the seat,Poids du siège,handling,2007-2010,all_in_one_from_birth,4,2.25,75.0,25.0
+seat_weight,Weight of the seat,Poids du siège,handling,2007-2010,forward_facing_harness,9,3.89,22.22,77.78
+seat_weight,Weight of the seat,Poids du siège,handling,2007-2010,harness_to_booster,6,1.17,100.0,0.0
+seat_weight,Weight of the seat,Poids du siège,handling,2007-2010,high_back_booster,29,1.55,100.0,0.0
+seat_weight,Weight of the seat,Poids du siège,handling,2007-2010,impact_shield,4,1.75,100.0,0.0
+seat_weight,Weight of the seat,Poids du siège,handling,2007-2010,infant_carrier,29,1.62,100.0,0.0
+seat_weight,Weight of the seat,Poids du siège,handling,2011-2014,all,121,2.12,84.3,15.7
+seat_weight,Weight of the seat,Poids du siège,handling,2011-2014,forward_facing_harness,11,3.91,18.18,81.82
+seat_weight,Weight of the seat,Poids du siège,handling,2011-2014,harness_to_booster,17,1.65,94.12,5.88
+seat_weight,Weight of the seat,Poids du siège,handling,2011-2014,high_back_booster,35,1.66,100.0,0.0
+seat_weight,Weight of the seat,Poids du siège,handling,2011-2014,impact_shield,9,1.89,88.89,11.11
+seat_weight,Weight of the seat,Poids du siège,handling,2011-2014,infant_carrier,36,1.72,100.0,0.0
+seat_weight,Weight of the seat,Poids du siège,handling,2011-2014,rotating_or_reversible,9,3.78,33.33,66.67
+seat_weight,Weight of the seat,Poids du siège,handling,2015-2019,all,178,2.81,60.11,39.89
+seat_weight,Weight of the seat,Poids du siège,handling,2015-2019,forward_facing_harness,10,4.4,0.0,100.0
+seat_weight,Weight of the seat,Poids du siège,handling,2015-2019,harness_to_booster,22,3.05,45.45,54.55
+seat_weight,Weight of the seat,Poids du siège,handling,2015-2019,high_back_booster,34,1.76,100.0,0.0
+seat_weight,Weight of the seat,Poids du siège,handling,2015-2019,impact_shield,9,2.67,66.67,33.33
+seat_weight,Weight of the seat,Poids du siège,handling,2015-2019,infant_carrier,65,2.17,78.46,21.54
+seat_weight,Weight of the seat,Poids du siège,handling,2015-2019,rear_facing_only,11,3.82,27.27,72.73
+seat_weight,Weight of the seat,Poids du siège,handling,2015-2019,rotating_or_reversible,25,4.52,12.0,88.0
+seat_weight,Weight of the seat,Poids du siège,handling,2020-2024,all,163,3.52,39.26,60.74
+seat_weight,Weight of the seat,Poids du siège,handling,2020-2024,harness_to_booster,15,4.07,13.33,86.67
+seat_weight,Weight of the seat,Poids du siège,handling,2020-2024,high_back_booster,31,1.81,100.0,0.0
+seat_weight,Weight of the seat,Poids du siège,handling,2020-2024,impact_shield,3,2.67,66.67,33.33
+seat_weight,Weight of the seat,Poids du siège,handling,2020-2024,infant_carrier,40,3.15,45.0,55.0
+seat_weight,Weight of the seat,Poids du siège,handling,2020-2024,rear_facing_only,13,4.31,7.69,92.31
+seat_weight,Weight of the seat,Poids du siège,handling,2020-2024,rotating_or_reversible,58,4.45,13.79,86.21
+seat_weight,Weight of the seat,Poids du siège,handling,2025+,all,50,3,56.0,44.0
+seat_weight,Weight of the seat,Poids du siège,handling,2025+,harness_to_booster,3,4.33,0.0,100.0
+seat_weight,Weight of the seat,Poids du siège,handling,2025+,high_back_booster,11,1.91,100.0,0.0
+seat_weight,Weight of the seat,Poids du siège,handling,2025+,infant_carrier,15,2.53,73.33,26.67
+seat_weight,Weight of the seat,Poids du siège,handling,2025+,rotating_or_reversible,17,3.76,29.41,70.59
+build_quality,Build quality,Qualité de fabrication,handling,2007-2010,all,115,2.03,77.39,0.87
+build_quality,Build quality,Qualité de fabrication,handling,2007-2010,all_in_one_from_birth,5,2.2,60.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2007-2010,forward_facing_harness,20,2.1,65.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2007-2010,harness_to_booster,9,2.22,66.67,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2007-2010,high_back_booster,35,1.69,97.14,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2007-2010,impact_shield,7,2.14,85.71,14.29
+build_quality,Build quality,Qualité de fabrication,handling,2007-2010,infant_carrier,32,2.31,62.5,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2007-2010,rotating_or_reversible,3,1.67,100.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2011-2014,all,160,1.61,93.12,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2011-2014,all_in_one_from_birth,5,1.8,100.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2011-2014,car_cot,4,1,100.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2011-2014,forward_facing_harness,20,2,75.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2011-2014,harness_to_booster,22,1.86,86.36,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2011-2014,high_back_booster,40,1.4,100.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2011-2014,impact_shield,13,1.62,100.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2011-2014,infant_carrier,42,1.45,95.24,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2011-2014,rotating_or_reversible,13,1.85,92.31,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2015-2019,all,242,1.75,91.32,1.24
+build_quality,Build quality,Qualité de fabrication,handling,2015-2019,forward_facing_harness,15,1.53,100.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2015-2019,harness_to_booster,25,1.76,96.0,4.0
+build_quality,Build quality,Qualité de fabrication,handling,2015-2019,high_back_booster,39,1.62,100.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2015-2019,impact_shield,12,1.75,83.33,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2015-2019,infant_carrier,93,1.83,91.4,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2015-2019,rear_facing_only,15,1.8,80.0,6.67
+build_quality,Build quality,Qualité de fabrication,handling,2015-2019,rotating_or_reversible,40,1.77,85.0,2.5
+build_quality,Build quality,Qualité de fabrication,handling,2020-2024,all,244,1.9,88.93,3.28
+build_quality,Build quality,Qualité de fabrication,handling,2020-2024,all_in_one_from_birth,3,1.33,100.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2020-2024,harness_to_booster,19,1.89,89.47,5.26
+build_quality,Build quality,Qualité de fabrication,handling,2020-2024,high_back_booster,35,2.06,80.0,8.57
+build_quality,Build quality,Qualité de fabrication,handling,2020-2024,impact_shield,4,1.25,100.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2020-2024,infant_carrier,96,1.74,95.83,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2020-2024,rear_facing_only,15,2.07,86.67,13.33
+build_quality,Build quality,Qualité de fabrication,handling,2020-2024,rotating_or_reversible,69,2.07,82.61,2.9
+build_quality,Build quality,Qualité de fabrication,handling,2025+,all,79,1.78,89.87,3.8
+build_quality,Build quality,Qualité de fabrication,handling,2025+,harness_to_booster,5,2.4,80.0,20.0
+build_quality,Build quality,Qualité de fabrication,handling,2025+,high_back_booster,13,1.69,92.31,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2025+,infant_carrier,31,1.71,90.32,3.23
+build_quality,Build quality,Qualité de fabrication,handling,2025+,rear_facing_only,4,2,100.0,0.0
+build_quality,Build quality,Qualité de fabrication,handling,2025+,rotating_or_reversible,23,1.83,86.96,4.35
+washing,Washing the cover,Lavage de la housse,handling,2007-2010,all,90,1.67,77.78,22.22
+washing,Washing the cover,Lavage de la housse,handling,2007-2010,all_in_one_from_birth,3,1,100.0,0.0
+washing,Washing the cover,Lavage de la housse,handling,2007-2010,forward_facing_harness,17,1,100.0,0.0
+washing,Washing the cover,Lavage de la housse,handling,2007-2010,harness_to_booster,7,1.86,71.43,28.57
+washing,Washing the cover,Lavage de la housse,handling,2007-2010,high_back_booster,28,2.07,64.29,35.71
+washing,Washing the cover,Lavage de la housse,handling,2007-2010,impact_shield,6,1,100.0,0.0
+washing,Washing the cover,Lavage de la housse,handling,2007-2010,infant_carrier,24,2,66.67,33.33
+washing,Washing the cover,Lavage de la housse,handling,2011-2014,all,116,2.22,59.48,40.52
+washing,Washing the cover,Lavage de la housse,handling,2011-2014,all_in_one_from_birth,4,1.75,75.0,25.0
+washing,Washing the cover,Lavage de la housse,handling,2011-2014,forward_facing_harness,16,3.06,31.25,68.75
+washing,Washing the cover,Lavage de la housse,handling,2011-2014,harness_to_booster,17,2.76,41.18,58.82
+washing,Washing the cover,Lavage de la housse,handling,2011-2014,high_back_booster,26,2.04,65.38,34.62
+washing,Washing the cover,Lavage de la housse,handling,2011-2014,impact_shield,8,1,100.0,0.0
+washing,Washing the cover,Lavage de la housse,handling,2011-2014,infant_carrier,34,2.06,64.71,35.29
+washing,Washing the cover,Lavage de la housse,handling,2011-2014,rotating_or_reversible,9,2,66.67,33.33
+washing,Washing the cover,Lavage de la housse,handling,2015-2019,all,240,1.62,79.58,20.42
+washing,Washing the cover,Lavage de la housse,handling,2015-2019,forward_facing_harness,15,1.4,86.67,13.33
+washing,Washing the cover,Lavage de la housse,handling,2015-2019,harness_to_booster,25,2.32,56.0,44.0
+washing,Washing the cover,Lavage de la housse,handling,2015-2019,high_back_booster,39,1.54,82.05,17.95
+washing,Washing the cover,Lavage de la housse,handling,2015-2019,impact_shield,12,1,100.0,0.0
+washing,Washing the cover,Lavage de la housse,handling,2015-2019,infant_carrier,92,1.7,77.17,22.83
+washing,Washing the cover,Lavage de la housse,handling,2015-2019,rear_facing_only,15,1,100.0,0.0
+washing,Washing the cover,Lavage de la housse,handling,2015-2019,rotating_or_reversible,39,1.54,82.05,17.95
+washing,Washing the cover,Lavage de la housse,handling,2020-2024,all,234,1.59,80.77,19.23
+washing,Washing the cover,Lavage de la housse,handling,2020-2024,all_in_one_from_birth,3,2,66.67,33.33
+washing,Washing the cover,Lavage de la housse,handling,2020-2024,harness_to_booster,18,1.67,77.78,22.22
+washing,Washing the cover,Lavage de la housse,handling,2020-2024,high_back_booster,33,1.3,90.91,9.09
+washing,Washing the cover,Lavage de la housse,handling,2020-2024,impact_shield,3,1,100.0,0.0
+washing,Washing the cover,Lavage de la housse,handling,2020-2024,infant_carrier,92,1.85,71.74,28.26
+washing,Washing the cover,Lavage de la housse,handling,2020-2024,rear_facing_only,13,1.23,92.31,7.69
+washing,Washing the cover,Lavage de la housse,handling,2020-2024,rotating_or_reversible,69,1.35,88.41,11.59
+washing,Washing the cover,Lavage de la housse,handling,2025+,all,79,1.3,89.87,10.13
+washing,Washing the cover,Lavage de la housse,handling,2025+,harness_to_booster,5,1,100.0,0.0
+washing,Washing the cover,Lavage de la housse,handling,2025+,high_back_booster,13,1,100.0,0.0
+washing,Washing the cover,Lavage de la housse,handling,2025+,infant_carrier,31,1.58,80.65,19.35
+washing,Washing the cover,Lavage de la housse,handling,2025+,rear_facing_only,4,1,100.0,0.0
+washing,Washing the cover,Lavage de la housse,handling,2025+,rotating_or_reversible,23,1.26,91.3,8.7
+cover_removal,Removing the cover,Retrait de la housse,handling,2007-2010,all,58,2.95,48.28,50.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2007-2010,all_in_one_from_birth,3,3.33,33.33,66.67
+cover_removal,Removing the cover,Retrait de la housse,handling,2007-2010,forward_facing_harness,10,3.6,20.0,80.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2007-2010,harness_to_booster,3,3.33,33.33,66.67
+cover_removal,Removing the cover,Retrait de la housse,handling,2007-2010,high_back_booster,16,2.44,75.0,25.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2007-2010,impact_shield,3,3.33,33.33,66.67
+cover_removal,Removing the cover,Retrait de la housse,handling,2007-2010,infant_carrier,17,2.53,64.71,35.29
+cover_removal,Removing the cover,Retrait de la housse,handling,2007-2010,rotating_or_reversible,3,3.67,0.0,66.67
+cover_removal,Removing the cover,Retrait de la housse,handling,2011-2014,all,150,2.09,82.67,17.33
+cover_removal,Removing the cover,Retrait de la housse,handling,2011-2014,all_in_one_from_birth,5,2.4,80.0,20.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2011-2014,car_cot,4,1.5,100.0,0.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2011-2014,forward_facing_harness,15,2.4,73.33,26.67
+cover_removal,Removing the cover,Retrait de la housse,handling,2011-2014,harness_to_booster,22,1.86,90.91,9.09
+cover_removal,Removing the cover,Retrait de la housse,handling,2011-2014,high_back_booster,37,2.16,83.78,16.22
+cover_removal,Removing the cover,Retrait de la housse,handling,2011-2014,impact_shield,13,2.08,76.92,23.08
+cover_removal,Removing the cover,Retrait de la housse,handling,2011-2014,infant_carrier,42,1.98,85.71,14.29
+cover_removal,Removing the cover,Retrait de la housse,handling,2011-2014,rotating_or_reversible,11,2.36,63.64,36.36
+cover_removal,Removing the cover,Retrait de la housse,handling,2015-2019,all,240,2.23,68.33,3.33
+cover_removal,Removing the cover,Retrait de la housse,handling,2015-2019,forward_facing_harness,15,2.2,66.67,0.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2015-2019,harness_to_booster,25,2.16,68.0,12.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2015-2019,high_back_booster,39,2.15,74.36,0.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2015-2019,impact_shield,12,2.67,41.67,8.33
+cover_removal,Removing the cover,Retrait de la housse,handling,2015-2019,infant_carrier,91,2.16,73.63,0.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2015-2019,rear_facing_only,15,2.47,46.67,6.67
+cover_removal,Removing the cover,Retrait de la housse,handling,2015-2019,rotating_or_reversible,40,2.35,67.5,7.5
+cover_removal,Removing the cover,Retrait de la housse,handling,2020-2024,all,243,2.67,50.62,18.52
+cover_removal,Removing the cover,Retrait de la housse,handling,2020-2024,all_in_one_from_birth,3,2.67,66.67,33.33
+cover_removal,Removing the cover,Retrait de la housse,handling,2020-2024,harness_to_booster,19,2.79,42.11,21.05
+cover_removal,Removing the cover,Retrait de la housse,handling,2020-2024,high_back_booster,35,2.77,45.71,22.86
+cover_removal,Removing the cover,Retrait de la housse,handling,2020-2024,impact_shield,4,3,25.0,25.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2020-2024,infant_carrier,96,2.52,63.54,16.67
+cover_removal,Removing the cover,Retrait de la housse,handling,2020-2024,rear_facing_only,15,2.67,53.33,20.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2020-2024,rotating_or_reversible,68,2.79,36.76,17.65
+cover_removal,Removing the cover,Retrait de la housse,handling,2025+,all,79,2.87,40.51,27.85
+cover_removal,Removing the cover,Retrait de la housse,handling,2025+,harness_to_booster,5,3,20.0,20.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2025+,high_back_booster,13,2.92,38.46,30.77
+cover_removal,Removing the cover,Retrait de la housse,handling,2025+,infant_carrier,31,2.77,48.39,25.81
+cover_removal,Removing the cover,Retrait de la housse,handling,2025+,rear_facing_only,4,2.5,50.0,0.0
+cover_removal,Removing the cover,Retrait de la housse,handling,2025+,rotating_or_reversible,23,3,34.78,34.78
+conversion,Converting the seat,Transformation du siège,handling,2025+,all,79,1.25,93.67,1.27
+conversion,Converting the seat,Transformation du siège,handling,2025+,harness_to_booster,5,1.8,80.0,0.0
+conversion,Converting the seat,Transformation du siège,handling,2025+,high_back_booster,13,1,100.0,0.0
+conversion,Converting the seat,Transformation du siège,handling,2025+,infant_carrier,31,1.23,100.0,0.0
+conversion,Converting the seat,Transformation du siège,handling,2025+,rear_facing_only,4,1,100.0,0.0
+conversion,Converting the seat,Transformation du siège,handling,2025+,rotating_or_reversible,23,1.39,82.61,4.35
+legrest,Leg room,Place pour les jambes,ergonomics,2007-2010,all,113,1.88,88.5,11.5
+legrest,Leg room,Place pour les jambes,ergonomics,2007-2010,all_in_one_from_birth,5,2.2,80.0,20.0
+legrest,Leg room,Place pour les jambes,ergonomics,2007-2010,forward_facing_harness,20,1.65,95.0,5.0
+legrest,Leg room,Place pour les jambes,ergonomics,2007-2010,harness_to_booster,9,2.56,66.67,33.33
+legrest,Leg room,Place pour les jambes,ergonomics,2007-2010,high_back_booster,35,1.57,97.14,2.86
+legrest,Leg room,Place pour les jambes,ergonomics,2007-2010,impact_shield,6,1.67,100.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2007-2010,infant_carrier,31,1.84,90.32,9.68
+legrest,Leg room,Place pour les jambes,ergonomics,2007-2010,rotating_or_reversible,3,3.33,33.33,66.67
+legrest,Leg room,Place pour les jambes,ergonomics,2011-2014,all,158,1.83,90.51,8.23
+legrest,Leg room,Place pour les jambes,ergonomics,2011-2014,all_in_one_from_birth,5,2.4,80.0,20.0
+legrest,Leg room,Place pour les jambes,ergonomics,2011-2014,car_cot,3,2,100.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2011-2014,forward_facing_harness,20,1.35,100.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2011-2014,harness_to_booster,21,2.29,71.43,23.81
+legrest,Leg room,Place pour les jambes,ergonomics,2011-2014,high_back_booster,40,1.55,100.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2011-2014,impact_shield,13,1.31,100.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2011-2014,infant_carrier,42,1.76,100.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2011-2014,rotating_or_reversible,13,3,46.15,46.15
+legrest,Leg room,Place pour les jambes,ergonomics,2015-2019,all,242,2.12,79.34,2.89
+legrest,Leg room,Place pour les jambes,ergonomics,2015-2019,forward_facing_harness,15,1.53,93.33,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2015-2019,harness_to_booster,25,2,92.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2015-2019,high_back_booster,39,1.97,97.44,2.56
+legrest,Leg room,Place pour les jambes,ergonomics,2015-2019,impact_shield,12,1.92,100.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2015-2019,infant_carrier,93,1.85,98.92,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2015-2019,rear_facing_only,15,2.8,26.67,6.67
+legrest,Leg room,Place pour les jambes,ergonomics,2015-2019,rotating_or_reversible,40,2.95,17.5,12.5
+legrest,Leg room,Place pour les jambes,ergonomics,2020-2024,all,244,2.06,74.18,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2020-2024,all_in_one_from_birth,3,3,0.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2020-2024,harness_to_booster,19,2.11,78.95,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2020-2024,high_back_booster,35,1.94,97.14,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2020-2024,impact_shield,4,1.75,100.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2020-2024,infant_carrier,96,1.57,100.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2020-2024,rear_facing_only,15,2.8,20.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2020-2024,rotating_or_reversible,69,2.61,39.13,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2025+,all,79,2.28,63.29,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2025+,harness_to_booster,5,1.8,100.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2025+,high_back_booster,13,2,100.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2025+,infant_carrier,31,1.87,93.55,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2025+,rear_facing_only,4,3,0.0,0.0
+legrest,Leg room,Place pour les jambes,ergonomics,2025+,rotating_or_reversible,23,3,0.0,0.0
+padding,Padding,Rembourrage,ergonomics,2007-2010,all,112,1.72,95.54,4.46
+padding,Padding,Rembourrage,ergonomics,2007-2010,all_in_one_from_birth,5,2,100.0,0.0
+padding,Padding,Rembourrage,ergonomics,2007-2010,forward_facing_harness,20,1.5,95.0,5.0
+padding,Padding,Rembourrage,ergonomics,2007-2010,harness_to_booster,9,2.67,77.78,22.22
+padding,Padding,Rembourrage,ergonomics,2007-2010,high_back_booster,33,1.61,100.0,0.0
+padding,Padding,Rembourrage,ergonomics,2007-2010,impact_shield,6,1.5,100.0,0.0
+padding,Padding,Rembourrage,ergonomics,2007-2010,infant_carrier,32,1.59,96.88,3.12
+padding,Padding,Rembourrage,ergonomics,2007-2010,rotating_or_reversible,3,2,100.0,0.0
+padding,Padding,Rembourrage,ergonomics,2011-2014,all,159,2.43,79.25,20.75
+padding,Padding,Rembourrage,ergonomics,2011-2014,all_in_one_from_birth,5,1.8,100.0,0.0
+padding,Padding,Rembourrage,ergonomics,2011-2014,car_cot,3,3.67,33.33,66.67
+padding,Padding,Rembourrage,ergonomics,2011-2014,forward_facing_harness,20,2.55,80.0,20.0
+padding,Padding,Rembourrage,ergonomics,2011-2014,harness_to_booster,22,3.36,50.0,50.0
+padding,Padding,Rembourrage,ergonomics,2011-2014,high_back_booster,40,2,90.0,10.0
+padding,Padding,Rembourrage,ergonomics,2011-2014,impact_shield,13,1.92,92.31,7.69
+padding,Padding,Rembourrage,ergonomics,2011-2014,infant_carrier,42,2.45,80.95,19.05
+padding,Padding,Rembourrage,ergonomics,2011-2014,rotating_or_reversible,13,2.46,76.92,23.08
+padding,Padding,Rembourrage,ergonomics,2015-2019,all,242,2.34,78.51,21.49
+padding,Padding,Rembourrage,ergonomics,2015-2019,forward_facing_harness,15,2.2,86.67,13.33
+padding,Padding,Rembourrage,ergonomics,2015-2019,harness_to_booster,25,2.84,56.0,44.0
+padding,Padding,Rembourrage,ergonomics,2015-2019,high_back_booster,39,2.44,74.36,25.64
+padding,Padding,Rembourrage,ergonomics,2015-2019,impact_shield,12,2,100.0,0.0
+padding,Padding,Rembourrage,ergonomics,2015-2019,infant_carrier,93,2.42,76.34,23.66
+padding,Padding,Rembourrage,ergonomics,2015-2019,rear_facing_only,15,2.13,80.0,20.0
+padding,Padding,Rembourrage,ergonomics,2015-2019,rotating_or_reversible,40,1.98,92.5,7.5
+padding,Padding,Rembourrage,ergonomics,2020-2024,all,243,2.36,75.31,24.69
+padding,Padding,Rembourrage,ergonomics,2020-2024,all_in_one_from_birth,3,2,100.0,0.0
+padding,Padding,Rembourrage,ergonomics,2020-2024,harness_to_booster,18,2.5,66.67,33.33
+padding,Padding,Rembourrage,ergonomics,2020-2024,high_back_booster,35,2.8,51.43,48.57
+padding,Padding,Rembourrage,ergonomics,2020-2024,impact_shield,4,1.75,100.0,0.0
+padding,Padding,Rembourrage,ergonomics,2020-2024,infant_carrier,96,2.27,80.21,19.79
+padding,Padding,Rembourrage,ergonomics,2020-2024,rear_facing_only,15,2.53,66.67,33.33
+padding,Padding,Rembourrage,ergonomics,2020-2024,rotating_or_reversible,69,2.23,82.61,17.39
+padding,Padding,Rembourrage,ergonomics,2025+,all,79,2.43,78.48,21.52
+padding,Padding,Rembourrage,ergonomics,2025+,harness_to_booster,5,2,100.0,0.0
+padding,Padding,Rembourrage,ergonomics,2025+,high_back_booster,13,3.23,38.46,61.54
+padding,Padding,Rembourrage,ergonomics,2025+,infant_carrier,31,2.39,80.65,19.35
+padding,Padding,Rembourrage,ergonomics,2025+,rear_facing_only,4,2,100.0,0.0
+padding,Padding,Rembourrage,ergonomics,2025+,rotating_or_reversible,23,2.09,95.65,4.35
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2007-2010,all,99,2.74,63.64,36.36
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2007-2010,all_in_one_from_birth,5,3.2,40.0,60.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2007-2010,forward_facing_harness,19,2.84,57.89,42.11
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2007-2010,harness_to_booster,9,3.11,44.44,55.56
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2007-2010,high_back_booster,35,2.29,85.71,14.29
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2007-2010,impact_shield,7,3,57.14,42.86
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2007-2010,infant_carrier,18,3,50.0,50.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2007-2010,rotating_or_reversible,3,2,100.0,0.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2011-2014,all,157,2.85,57.32,42.68
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2011-2014,all_in_one_from_birth,5,4,0.0,100.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2011-2014,forward_facing_harness,20,2.7,65.0,35.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2011-2014,harness_to_booster,22,3.27,36.36,63.64
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2011-2014,high_back_booster,40,2.4,80.0,20.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2011-2014,impact_shield,13,3.54,23.08,76.92
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2011-2014,infant_carrier,41,2.39,80.49,19.51
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2011-2014,rotating_or_reversible,13,3.85,7.69,92.31
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2015-2019,all,230,3.01,50.0,50.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2015-2019,forward_facing_harness,15,3.33,33.33,66.67
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2015-2019,harness_to_booster,25,3.44,28.0,72.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2015-2019,high_back_booster,38,2.42,78.95,21.05
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2015-2019,impact_shield,12,3.33,33.33,66.67
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2015-2019,infant_carrier,82,2.37,81.71,18.29
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2015-2019,rear_facing_only,15,4.13,0.0,100.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2015-2019,rotating_or_reversible,40,3.9,5.0,95.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2020-2024,all,244,3.22,40.57,59.43
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2020-2024,all_in_one_from_birth,3,4,0.0,100.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2020-2024,harness_to_booster,19,3.47,26.32,73.68
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2020-2024,high_back_booster,35,2.17,91.43,8.57
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2020-2024,impact_shield,4,4,0.0,100.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2020-2024,infant_carrier,96,2.73,63.54,36.46
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2020-2024,rear_facing_only,15,4.13,0.0,100.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2020-2024,rotating_or_reversible,69,4.09,0.0,100.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2025+,all,79,3.48,29.11,70.89
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2025+,harness_to_booster,5,4,0.0,100.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2025+,high_back_booster,13,2.46,76.92,23.08
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2025+,infant_carrier,31,3.23,38.71,61.29
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2025+,rear_facing_only,4,4.25,0.0,100.0
+view_out,View out of the window,Vue vers l'extérieur,ergonomics,2025+,rotating_or_reversible,23,4.17,0.0,100.0
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2011-2014,all,159,3.28,14.47,33.96
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2011-2014,all_in_one_from_birth,5,3.2,0.0,20.0
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2011-2014,car_cot,3,5,0.0,100.0
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2011-2014,forward_facing_harness,20,3,35.0,35.0
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2011-2014,harness_to_booster,22,2.73,31.82,4.55
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2011-2014,high_back_booster,40,3.27,12.5,32.5
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2011-2014,impact_shield,13,3.85,0.0,76.92
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2011-2014,infant_carrier,42,3.26,4.76,26.19
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2011-2014,rotating_or_reversible,13,3.77,15.38,53.85
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2015-2019,all,242,2.88,55.37,44.63
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2015-2019,forward_facing_harness,15,1.73,86.67,13.33
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2015-2019,harness_to_booster,25,2,92.0,8.0
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2015-2019,high_back_booster,39,3,51.28,48.72
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2015-2019,impact_shield,12,3.25,41.67,58.33
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2015-2019,infant_carrier,93,2.78,62.37,37.63
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2015-2019,rear_facing_only,15,3.73,13.33,86.67
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2015-2019,rotating_or_reversible,40,3.5,30.0,70.0
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2020-2024,all,244,2.78,58.61,41.39
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2020-2024,all_in_one_from_birth,3,4,0.0,100.0
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2020-2024,harness_to_booster,19,1.68,100.0,0.0
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2020-2024,high_back_booster,35,2.17,82.86,17.14
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2020-2024,impact_shield,4,3.25,50.0,50.0
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2020-2024,infant_carrier,96,2.69,63.54,36.46
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2020-2024,rear_facing_only,15,4,6.67,93.33
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2020-2024,rotating_or_reversible,69,3.19,42.03,57.97
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2025+,all,79,3.73,24.05,75.95
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2025+,harness_to_booster,5,2.8,60.0,40.0
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2025+,high_back_booster,13,2.54,76.92,23.08
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2025+,infant_carrier,31,3.87,12.9,87.1
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2025+,rear_facing_only,4,4.75,0.0,100.0
+space_in_car,Space needed in the car,Encombrement dans la voiture,ergonomics,2025+,rotating_or_reversible,23,4.3,4.35,95.65
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2011-2014,all,104,3.32,55.77,44.23
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2011-2014,all_in_one_from_birth,4,2,100.0,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2011-2014,forward_facing_harness,15,2.6,80.0,20.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2011-2014,harness_to_booster,16,4.62,12.5,87.5
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2011-2014,high_back_booster,24,4.08,29.17,70.83
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2011-2014,impact_shield,11,4.18,27.27,72.73
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2011-2014,infant_carrier,24,2,100.0,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2011-2014,rotating_or_reversible,9,3.33,55.56,44.44
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2015-2019,all,242,1.85,84.3,1.24
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2015-2019,forward_facing_harness,15,1.87,86.67,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2015-2019,harness_to_booster,25,2.52,44.0,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2015-2019,high_back_booster,39,2.03,74.36,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2015-2019,impact_shield,12,1.83,91.67,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2015-2019,infant_carrier,93,1.63,97.85,2.15
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2015-2019,rear_facing_only,15,1.6,86.67,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2015-2019,rotating_or_reversible,40,1.8,87.5,2.5
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2020-2024,all,244,1.62,89.75,0.82
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2020-2024,all_in_one_from_birth,3,1.67,66.67,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2020-2024,harness_to_booster,19,2.26,73.68,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2020-2024,high_back_booster,35,1.91,100.0,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2020-2024,impact_shield,4,1.75,100.0,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2020-2024,infant_carrier,96,1.42,97.92,2.08
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2020-2024,rear_facing_only,15,1.73,66.67,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2020-2024,rotating_or_reversible,69,1.58,82.61,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2025+,all,79,1.73,84.81,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2025+,harness_to_booster,5,2.4,60.0,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2025+,high_back_booster,13,1.62,100.0,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2025+,infant_carrier,31,1.61,93.55,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2025+,rear_facing_only,4,2.25,50.0,0.0
+space_in_seat,Space for the child,Place pour l'enfant,ergonomics,2025+,rotating_or_reversible,23,1.74,78.26,0.0
+seating_position,Seating position,Position assise,ergonomics,2011-2014,all,158,2.3,81.01,15.82
+seating_position,Seating position,Position assise,ergonomics,2011-2014,all_in_one_from_birth,5,2,100.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2011-2014,car_cot,3,1.67,100.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2011-2014,forward_facing_harness,20,2.2,90.0,10.0
+seating_position,Seating position,Position assise,ergonomics,2011-2014,harness_to_booster,22,2.41,72.73,22.73
+seating_position,Seating position,Position assise,ergonomics,2011-2014,high_back_booster,39,2.49,74.36,25.64
+seating_position,Seating position,Position assise,ergonomics,2011-2014,impact_shield,13,2.31,84.62,15.38
+seating_position,Seating position,Position assise,ergonomics,2011-2014,infant_carrier,42,2.07,88.1,4.76
+seating_position,Seating position,Position assise,ergonomics,2011-2014,rotating_or_reversible,13,2.69,61.54,30.77
+seating_position,Seating position,Position assise,ergonomics,2015-2019,all,241,2.1,82.57,1.24
+seating_position,Seating position,Position assise,ergonomics,2015-2019,forward_facing_harness,15,1.93,93.33,0.0
+seating_position,Seating position,Position assise,ergonomics,2015-2019,harness_to_booster,25,2.32,60.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2015-2019,high_back_booster,39,2.33,64.1,5.13
+seating_position,Seating position,Position assise,ergonomics,2015-2019,impact_shield,12,2.25,75.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2015-2019,infant_carrier,93,1.9,96.77,0.0
+seating_position,Seating position,Position assise,ergonomics,2015-2019,rear_facing_only,15,2.2,80.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2015-2019,rotating_or_reversible,39,2.18,82.05,2.56
+seating_position,Seating position,Position assise,ergonomics,2020-2024,all,244,2.0,84.84,0.0
+seating_position,Seating position,Position assise,ergonomics,2020-2024,all_in_one_from_birth,3,2,100.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2020-2024,harness_to_booster,19,2.11,84.21,0.0
+seating_position,Seating position,Position assise,ergonomics,2020-2024,high_back_booster,35,1.77,100.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2020-2024,impact_shield,4,1.75,100.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2020-2024,infant_carrier,96,1.76,98.96,0.0
+seating_position,Seating position,Position assise,ergonomics,2020-2024,rear_facing_only,15,2.4,60.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2020-2024,rotating_or_reversible,69,2.39,60.87,0.0
+seating_position,Seating position,Position assise,ergonomics,2025+,all,79,1.9,88.61,0.0
+seating_position,Seating position,Position assise,ergonomics,2025+,harness_to_booster,5,2.4,60.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2025+,high_back_booster,13,1.69,100.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2025+,infant_carrier,31,1.65,100.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2025+,rear_facing_only,4,2.75,25.0,0.0
+seating_position,Seating position,Position assise,ergonomics,2025+,rotating_or_reversible,23,2.17,82.61,0.0
+pollutants,Harmful substances,Substances nocives,pollutants,2011-2014,all,159,2.17,52.83,16.98
+pollutants,Harmful substances,Substances nocives,pollutants,2011-2014,all_in_one_from_birth,5,2.2,60.0,20.0
+pollutants,Harmful substances,Substances nocives,pollutants,2011-2014,car_cot,4,1.5,75.0,0.0
+pollutants,Harmful substances,Substances nocives,pollutants,2011-2014,forward_facing_harness,20,2.3,35.0,0.0
+pollutants,Harmful substances,Substances nocives,pollutants,2011-2014,harness_to_booster,22,2.91,27.27,36.36
+pollutants,Harmful substances,Substances nocives,pollutants,2011-2014,high_back_booster,40,2.23,52.5,17.5
+pollutants,Harmful substances,Substances nocives,pollutants,2011-2014,impact_shield,13,1.69,69.23,7.69
+pollutants,Harmful substances,Substances nocives,pollutants,2011-2014,infant_carrier,41,1.93,63.41,17.07
+pollutants,Harmful substances,Substances nocives,pollutants,2011-2014,rotating_or_reversible,13,2.08,61.54,23.08
+pollutants,Harmful substances,Substances nocives,pollutants,2015-2019,all,242,1.79,84.3,10.33
+pollutants,Harmful substances,Substances nocives,pollutants,2015-2019,forward_facing_harness,15,1.67,86.67,13.33
+pollutants,Harmful substances,Substances nocives,pollutants,2015-2019,harness_to_booster,25,1.44,96.0,0.0
+pollutants,Harmful substances,Substances nocives,pollutants,2015-2019,high_back_booster,39,1.41,94.87,0.0
+pollutants,Harmful substances,Substances nocives,pollutants,2015-2019,impact_shield,12,1.5,91.67,0.0
+pollutants,Harmful substances,Substances nocives,pollutants,2015-2019,infant_carrier,93,2.09,75.27,17.2
+pollutants,Harmful substances,Substances nocives,pollutants,2015-2019,rear_facing_only,15,1.33,93.33,6.67
+pollutants,Harmful substances,Substances nocives,pollutants,2015-2019,rotating_or_reversible,40,2.02,80.0,15.0
+pollutants,Harmful substances,Substances nocives,pollutants,2020-2024,all,241,1.63,86.72,9.13
+pollutants,Harmful substances,Substances nocives,pollutants,2020-2024,harness_to_booster,17,1.29,94.12,0.0
+pollutants,Harmful substances,Substances nocives,pollutants,2020-2024,high_back_booster,35,1.63,82.86,11.43
+pollutants,Harmful substances,Substances nocives,pollutants,2020-2024,impact_shield,4,1.25,100.0,0.0
+pollutants,Harmful substances,Substances nocives,pollutants,2020-2024,infant_carrier,96,1.68,86.46,9.38
+pollutants,Harmful substances,Substances nocives,pollutants,2020-2024,rear_facing_only,15,1.47,86.67,6.67
+pollutants,Harmful substances,Substances nocives,pollutants,2020-2024,rotating_or_reversible,69,1.71,86.96,10.14
+pollutants,Harmful substances,Substances nocives,pollutants,2025+,all,79,1.54,86.08,5.06
+pollutants,Harmful substances,Substances nocives,pollutants,2025+,harness_to_booster,5,1.2,100.0,0.0
+pollutants,Harmful substances,Substances nocives,pollutants,2025+,high_back_booster,13,1.38,92.31,7.69
+pollutants,Harmful substances,Substances nocives,pollutants,2025+,infant_carrier,31,1.45,87.1,0.0
+pollutants,Harmful substances,Substances nocives,pollutants,2025+,rear_facing_only,4,2.25,75.0,25.0
+pollutants,Harmful substances,Substances nocives,pollutants,2025+,rotating_or_reversible,23,1.78,78.26,8.7
+pfas,PFAS,PFAS,pollutants,2025+,all,79,1.23,94.94,5.06
+pfas,PFAS,PFAS,pollutants,2025+,harness_to_booster,5,1.2,100.0,0.0
+pfas,PFAS,PFAS,pollutants,2025+,high_back_booster,13,1.08,100.0,0.0
+pfas,PFAS,PFAS,pollutants,2025+,infant_carrier,31,1.03,100.0,0.0
+pfas,PFAS,PFAS,pollutants,2025+,rear_facing_only,4,1,100.0,0.0
+pfas,PFAS,PFAS,pollutants,2025+,rotating_or_reversible,23,1.35,91.3,8.7
